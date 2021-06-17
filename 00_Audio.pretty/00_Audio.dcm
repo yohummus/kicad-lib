@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMI-9605-0580T
+D 5V Buzzer, self-driven, 30mA, 80db
+K quartz resonator ceramic
+F ${KIPRJMOD}/../lib/00_Audio.pretty/CMI-9605-0580T.pdf
+$ENDCMP
+#
+$CMP CMI-9605-1280T
+D 12V Buzzer, self-driven, 30mA, 80db
+K quartz resonator ceramic
+F ${KIPRJMOD}/../lib/00_Audio.pretty/CMI-9605-1280T.pdf
+$ENDCMP
+#
+#End Doc Library

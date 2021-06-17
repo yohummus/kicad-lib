@@ -1,0 +1,207 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Header_2.54mm_01x12_vert_female_lp
+D Header, 2.54mm, 01x12, vertical, female, low profile
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/Preci-dip_310.pdf
+$ENDCMP
+#
+$CMP Header_2.54mm_01x12_vert_male_lp
+D Header, 2.54mm, 01x12, vertical, male, low profile
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/Samtec_pin_headers.pdf
+$ENDCMP
+#
+$CMP Header_2.54mm_02x11_female
+D Pin header, 02x11, female, 2.54mm
+K header
+F ~
+$ENDCMP
+#
+$CMP Header_2.54mm_02x11_female_lp
+D Pin header, 02x11, female, 2.54mm, low profile
+K header
+F ~
+$ENDCMP
+#
+$CMP Header_2.54mm_02x11_male
+D Pin header, 02x11, male, 2.54mm
+K header
+F ~
+$ENDCMP
+#
+$CMP Header_2.54mm_02x12_female
+D Pin header, 02x12, female, 2.54mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP Header_2.54mm_02x12_male
+D Pin header, 02x12, male, 2.54mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP Header_2mm_02x07_female
+D Header, 2mm, 02x07, female
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_receptacle.pdf
+$ENDCMP
+#
+$CMP Header_2mm_02x07_male
+D Header, 2mm, 02x07, male
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_header.pdf
+$ENDCMP
+#
+$CMP Header_2mm_02x08_female
+D Header, 2mm, 02x08, female
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_receptacle.pdf
+$ENDCMP
+#
+$CMP Header_2mm_02x15_female
+D Header, 2mm, 02x15, female
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_receptacle.pdf
+$ENDCMP
+#
+$CMP Header_2mm_02x22_female
+D Header, 2mm, 02x22, female
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_receptacle.pdf
+$ENDCMP
+#
+$CMP Header_2mm_02x24_female
+D Header, 2mm, 02x24, female
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_receptacle.pdf
+$ENDCMP
+#
+$CMP Header_2mm_02x25_female
+D Header, 2mm, 02x25, female
+K connector
+F ${KIPRJMOD}/../lib/00_Connectors.pretty/AMPMODU_2mm_receptacle.pdf
+$ENDCMP
+#
+$CMP JST_PH_B10B_K
+D JST PH 10 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B2B_K
+D JST PH 2 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B3B_K
+D JST PH 3 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B4B_K
+D JST PH 4 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B5B_K
+D JST PH 5 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B6B_K
+D JST PH 6 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B7B_K
+D JST PH 7 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B8B_K
+D JST PH 8 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_B9B_K
+D JST PH 9 pin, vertical, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S10B_K
+D JST PH 10 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S2B_K
+D JST PH 2 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S3B_K
+D JST PH 3 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S4B_K
+D JST PH 4 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S5B_K
+D JST PH 5 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S6B_K
+D JST PH 6 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S7B_K
+D JST PH 7 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S8B_K
+D JST PH 8 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP JST_PH_S9B_K
+D JST PH 9 pin, horizontal, through-hole, 2A, 2mm
+K connector
+F ~
+$ENDCMP
+#
+$CMP SWD
+D Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface
+K Cortex Debug Connector ARM SWD JTAG
+F ~
+$ENDCMP
+#
+$CMP TestPoint_1.5mm
+D test point
+K test point tp
+F ~
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L_10u_0805
+D 10μH Inductor, 0805
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_15n_0603
+D 15nH Inductor, 0603
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_1m_SRR1210
+D 1mH Inductor, 1.65Ω DCR, 0.75A IDC, SRR1210
+K inductor choke coil reactor magnetic
+F ${KIPRJMOD}/../lib/00_Inductors.pretty/SRR1210.pdf
+$ENDCMP
+#
+#End Doc Library

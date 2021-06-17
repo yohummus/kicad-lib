@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Wire_L
+D Wire Solder Connection, L
+K wire
+$ENDCMP
+#
+#End Doc Library

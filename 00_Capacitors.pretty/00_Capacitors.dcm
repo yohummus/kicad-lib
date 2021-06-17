@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_100n_100V_X7S_0603
+D 100nF Capacitor, 100V, X7S, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_100n_16V_X7R_0603
+D 100nF Capacitor, 16V, X7R, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_10n_100V_X7R_0603
+D 10nF Capacitor, 100V, X7R, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_10u_16V_X5R_0805
+D 10μF Capacitor, 16V, X5R, 0805
+K capacitor
+$ENDCMP
+#
+$CMP C_10u_35V_X5R_1206
+D 10μF Capacitor, 35V, X5R, 1206
+K capacitor
+$ENDCMP
+#
+$CMP C_12p_50V_C0G_0603
+D 12pF Capacitor, 50V, C0G, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_15p_50V_C0G_0603
+D 15pF Capacitor, 50V, C0G, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_1u_100V_X7R_1210
+D 1μF Capacitor, 100V, X7R, 1210
+K capacitor
+$ENDCMP
+#
+$CMP C_1u_16V_X7R_0603
+D 1μF Capacitor, 16V, X7R, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_2u2_35V_X7R_0805
+D 2.2μF Capacitor, 35V, X7R, 0805
+K capacitor
+$ENDCMP
+#
+$CMP C_3n6_50V_C0G_0603
+D 3.6nF Capacitor, 50V, C0G, 0603
+K capacitor
+$ENDCMP
+#
+$CMP C_3u3_25V_X7R_0805
+D 3.3μF Capacitor, 25V, X7R, 0805
+K capacitor
+$ENDCMP
+#
+$CMP C_4n7_50V_X7R_0603
+D 4.7nF Capacitor, 50V, X7R, 0603
+K capacitor
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP115ASN330
+D 3.3V, 300ma LDO, TSOP-5
+K Single Output LDO Low-Noise
+F ${KIPRJMOD}/../lib/00_Linear_Regulators.pretty/NCP115.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Heatsink_M_C448
+D Heatsink
+K thermal heat temperature
+F ${KIPRJMOD}/../lib/00_Mechanical.pretty/M-C448.pdf
+$ENDCMP
+#
+$CMP MountingHole_M3
+D Mounting Hole without connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP MountingHole_M3_Pad
+D Mounting Hole with connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP MountingHole_M4
+D Mounting Hole without connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP MountingHole_M4_Pad
+D Mounting Hole with connection
+K mounting hole
+F ~
+$ENDCMP
+#
+#End Doc Library

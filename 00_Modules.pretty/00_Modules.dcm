@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BL651_INT_ANT
+D Bluetooth module using nRF52810 with chip antenna
+K Bluetooth Nordic nRF52
+F ${KIPRJMOD}/../lib/00_Modules.pretty/BL651.pdf
+$ENDCMP
+#
+$CMP BL652_EXT_ANT
+D Bluetooth module using nRF52832 with chip antenna
+K Bluetooth Nordic nRF52
+F ${KIPRJMOD}/../lib/00_Modules.pretty/BL652.pdf
+$ENDCMP
+#
+$CMP BL652_INT_ANT
+D Bluetooth module using nRF52832 with chip antenna
+K Bluetooth Nordic nRF52
+F ${KIPRJMOD}/../lib/00_Modules.pretty/BL652.pdf
+$ENDCMP
+#
+#End Doc Library

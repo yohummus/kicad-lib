@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTC_100mA_90V
+D Resettable fuse, 100mA, 90V, Through-Hole
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ${KIPRJMOD}/../lib/00_Fuses.pretty/0ZRC.pdf
+$ENDCMP
+#
+$CMP PTC_20mA_60V_0603
+D Resettable fuse, 20mA, 60V, 0603
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+$CMP PTC_50mA_60V_1206
+D Resettable fuse, 50mA, 60V, 1206
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
+#End Doc Library

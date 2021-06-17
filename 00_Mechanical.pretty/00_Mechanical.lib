@@ -1,0 +1,98 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Heatsink_M_C448
+#
+DEF Heatsink_M_C448 HS 0 40 Y Y 1 F N
+F0 "HS" 0 200 50 H V C CNN
+F1 "Heatsink_M_C448" 0 600 50 H I C CNN
+F2 "00_Mechanical:Heatsink_M_C448" 0 300 50 H I C CNN
+F3 "" 12 0 50 H I C CNN
+F4 "Cincon" 0 700 50 H I C CNN "Manufacturer"
+F5 "M-C448 Heat Sink Kit" 0 500 50 H I C CNN "Part No"
+F6 "418-MC448HEATSINKKIT" 0 400 50 H I C CNN "Mouser No"
+F7 "M-C448" 0 -50 50 H I C CNN "Type"
+F8 "47.2mm" 0 -150 50 H I C CNN "Length"
+F9 "36.8mm" 0 -250 50 H I C CNN "Width"
+F10 "12.7mm" 0 -350 50 H I C CNN "Height"
+F11 "5.61°C/W" 0 -450 50 H I C CNN "Thermal Resistance"
+$FPLIST
+ Heatsink:*
+$ENDFPLIST
+DRAW
+P 10 0 1 10 -13 50 -38 50 -38 150 -63 150 -63 50 -88 50 -88 150 -113 150 -113 0 -38 0 f
+P 13 0 1 10 -13 50 -13 150 12 150 12 50 37 50 37 150 62 150 62 50 87 50 87 150 112 150 112 0 -38 0 f
+ENDDRAW
+ENDDEF
+#
+# MountingHole_M3
+#
+DEF MountingHole_M3 MH 0 40 Y Y 1 F N
+F0 "MH" 0 150 50 H V C CNN
+F1 "MountingHole_M3" 0 350 50 H I C CNN
+F2 "00_Mechanical:MountingHole_3.2mm_M3" 0 250 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Ø3.2mm" 0 -150 50 H V C CNN "Diameter"
+F5 "1" 150 0 50 H I C CNN "DNP"
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# MountingHole_M3_Pad
+#
+DEF MountingHole_M3_Pad MH 0 40 N N 1 F N
+F0 "MH" 0 200 50 H V C CNN
+F1 "MountingHole_M3_Pad" 0 400 50 H I C CNN
+F2 "00_Mechanical:MountingHole_3.2mm_M3_Pad_Via" 0 300 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Ø3.2mm" 0 -300 50 H V C CNN "Diameter"
+F5 "1" 150 50 50 H I C CNN "DNP"
+$FPLIST
+ MountingHole*Pad*
+$ENDFPLIST
+DRAW
+C 0 50 50 0 1 50 N
+X 1 1 0 -100 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MountingHole_M4
+#
+DEF MountingHole_M4 MH 0 40 Y Y 1 F N
+F0 "MH" 0 150 50 H V C CNN
+F1 "MountingHole_M4" 0 250 50 H I C CNN
+F2 "00_Mechanical:MountingHole_4.3mm_M4" 50 350 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Ø4.3mm" 0 -150 50 H V C CNN "Diameter"
+F5 "1" 150 0 50 H I C CNN "DNP"
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
+ENDDRAW
+ENDDEF
+#
+# MountingHole_M4_Pad
+#
+DEF MountingHole_M4_Pad MH 0 40 N N 1 F N
+F0 "MH" 0 200 50 H V C CNN
+F1 "MountingHole_M4_Pad" 0 300 50 H I C CNN
+F2 "00_Mechanical:MountingHole_4.3mm_M4_Pad_Via" 0 400 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Ø4.3mm" 0 -300 50 H V C CNN "Diameter"
+F5 "1" 200 -50 50 H I C CNN "DNP"
+$FPLIST
+ MountingHole*Pad*
+$ENDFPLIST
+DRAW
+C 0 50 50 0 1 50 N
+X 1 1 0 -100 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

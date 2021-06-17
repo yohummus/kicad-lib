@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ76200
+D High voltage, battery pack front-end charge/discharge FET driver
+F ${KIPRJMOD}/../lib/00_Miscellaneous_ICs.pretty/BQ76200.pdf
+$ENDCMP
+#
+$CMP BQ7694003
+D Lithium battery monitor, 9-15 cells, I²C address 0x08, 3.3V LDO, with CRC
+K lithium battery balance charge afe
+F ${KIPRJMOD}/../lib/00_Miscellaneous_ICs.pretty/BQ76940.pdf
+$ENDCMP
+#
+$CMP MCP25625
+D Stand-Alone CAN Controller with SPI Interface and integated Transceiver, SSOP-28
+K CAN Controller SPI Transceiver
+F ${KIPRJMOD}/../lib/00_Miscellaneous_ICs.pretty/MCP25625.pdf
+$ENDCMP
+#
+$CMP Si8642AB
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16
+K 4Ch 2In 2Out Quad Digital Isolator 150Mbps
+F ${KIPRJMOD}/../lib/00_Miscellaneous_ICs.pretty/SI86xx.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EVQ-Q2B03W
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ${KIPRJMOD}/../lib/00_Switches.pretty/EVQP0_EVQQ2.pdf
+$ENDCMP
+#
+#End Doc Library

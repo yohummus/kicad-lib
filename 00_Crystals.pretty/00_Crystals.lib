@@ -1,0 +1,58 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Crystal_20MHz_50ppm
+#
+DEF Crystal_20MHz_50ppm Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "Crystal_20MHz_50ppm" 0 650 50 H I C CNN
+F2 "00_Crystals:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm" 0 250 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Epson" 0 550 50 H I C CNN "Manufacturer"
+F5 "FA-238 20.0000MB-K0" 0 450 50 H I C CNN "Part No"
+F6 "732-FA238-20B-K0" 0 350 50 H I C CNN "Mouser No"
+F7 "20MHz" 0 -150 50 H V C CNN "Frequency"
+F8 "50ppm" 0 -250 50 H I C CNN "Stability"
+F9 "10pF" 0 -350 50 H I C CNN "Load Capacitance"
+$FPLIST
+ Crystal*
+$ENDFPLIST
+DRAW
+S -45 100 45 -100 0 1 12 N
+P 2 0 1 0 -100 0 -75 0 N
+P 2 0 1 20 -75 -50 -75 50 N
+P 2 0 1 20 75 -50 75 50 N
+P 2 0 1 0 100 0 75 0 N
+X 1 1 -150 0 50 R 50 50 1 1 P
+X 4 4 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Crystal_32.768kHz_20ppm
+#
+DEF Crystal_32.768kHz_20ppm Y 0 40 N N 1 F N
+F0 "Y" 0 150 50 H V C CNN
+F1 "Crystal_32.768kHz_20ppm" 0 650 50 H I C CNN
+F2 "00_Crystals:Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm" 0 250 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Epson" 0 550 50 H I C CNN "Manufacturer"
+F5 "MC-306 32.7680K-A0:ROHS" 0 450 50 H I C CNN "Part No"
+F6 "732-MC30632.7680KA0R" 0 350 50 H I C CNN "Mouser No"
+F7 "32.768KHz" 0 -150 50 H V C CNN "Frequency"
+F8 "20ppm" 0 -250 50 H I C CNN "Stability"
+F9 "12.5pF" 0 -350 50 H I C CNN "Load Capacitance"
+$FPLIST
+ Crystal*
+$ENDFPLIST
+DRAW
+S -45 100 45 -100 0 1 12 N
+P 2 0 1 0 -100 0 -75 0 N
+P 2 0 1 20 -75 -50 -75 50 N
+P 2 0 1 20 75 -50 75 50 N
+P 2 0 1 0 100 0 75 0 N
+X 1 1 -150 0 50 R 50 50 1 1 P
+X 4 4 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

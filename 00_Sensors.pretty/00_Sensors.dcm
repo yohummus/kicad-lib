@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IIS328DQ
+D Accelerometer, 2/4/8g, I2C/SPI, QFN-24
+K mems magnetometer
+F ${KIPRJMOD}/../lib/00_Sensors.pretty/IIS328DQ.pdf
+$ENDCMP
+#
+$CMP NCP18XV103E03RB
+D Temperature dependent resistor, negative temperature coefficient
+K thermistor NTC resistor sensor RTD
+F ${KIPRJMOD}/../lib/00_Sensors.pretty/Murata_Temp_Sensors.pdf
+$ENDCMP
+#
+#End Doc Library

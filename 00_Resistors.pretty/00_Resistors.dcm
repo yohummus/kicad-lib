@@ -1,0 +1,55 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_100R_2512
+D 100Ω Resistor, 1W, 2512
+$ENDCMP
+#
+$CMP R_107K_0603
+D Resistor 107kΩ, 0603
+$ENDCMP
+#
+$CMP R_10K_0603
+D Resistor 10kΩ, 0603
+$ENDCMP
+#
+$CMP R_120R_0603
+D Resistor 120Ω, 0603
+$ENDCMP
+#
+$CMP R_1K_0603
+D Resistor 1kΩ, 0603
+$ENDCMP
+#
+$CMP R_27R_2512
+D 27Ω Resistor, 1W, 2512
+$ENDCMP
+#
+$CMP R_4K7_0603
+D Resistor 4.7kΩ, 0603
+$ENDCMP
+#
+$CMP R_4R7_0603
+D Resistor 4.7Ω, 0603
+$ENDCMP
+#
+$CMP R_560m_1206
+D 560mΩ, 1% Current SenseResistor, 1206
+$ENDCMP
+#
+$CMP R_715K_0603
+D Resistor 715kΩ, 0603
+$ENDCMP
+#
+$CMP Shunt_0m5_WSLP5931
+D Shunt, 0.5mΩ, 10W, WSLP5931
+K R res resistor
+F ${KIPRJMOD}/../lib/00_Resistors.pretty/WSLP3921_WSLP5931.pdf
+$ENDCMP
+#
+$CMP Shunt_1m0_WSLP5931
+D Shunt, 1.0mΩ, 10W, WSLP5931
+K R res resistor
+F ${KIPRJMOD}/../lib/00_Resistors.pretty/WSLP3921_WSLP5931.pdf
+$ENDCMP
+#
+#End Doc Library

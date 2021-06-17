@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM5009A
+D 150mA, 100V Step-Down Switching Regulator, Adjustable Output Voltage, VSSOP-8
+K Step-Down Switching Regulator
+F ${KIPRJMOD}/../lib/00_Switching_Regulators.pretty/LM5009A.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148W
+D General purpose diode, 75V, 300mV
+K diode
+F ~
+$ENDCMP
+#
+$CMP ES3D-E3_57T
+D Fast Recovery Rectifier, 3A, 200V, 20ns
+F https://www.mouser.dk/datasheet/2/427/es3-596379.pdf
+$ENDCMP
+#
+$CMP SK220
+D Schottky diode, 200V, 2A
+K diode Schottky
+F http://www.smc-diodes.com/propdf/SK220%20N0635%20REV.A.pdf
+$ENDCMP
+#
+$CMP SMCJ75A
+D TVS Diode 1500W 75V Unidirect
+K diode TVS voltage suppressor
+F https://www.mouser.dk/datasheet/2/427/smcj-241829.pdf
+$ENDCMP
+#
+$CMP SP0505BAHTG
+D ESD Suppressors / TVS Diodes 5.5V(R) 9. 9.2V-CLAMP1.2A 5-CH
+K usb esd protection suppression transient
+F ${KIPRJMOD}/../lib/00_Diodes.pretty/SP05.pdf
+$ENDCMP
+#
+$CMP SZNUP2105L
+D Dual Line CAN Bus Protector, 24Vrwm
+K can esd protection suppression transient
+F https://eu.mouser.com/datasheet/2/308/NUP2105L-D-91918.pdf
+$ENDCMP
+#
+$CMP Zener_12V_SOD323
+D 12V Zener diode
+$ENDCMP
+#
+$CMP Zener_3V3_SOD323
+D 3.3V Zener diode
+$ENDCMP
+#
+$CMP Zener_5V6_SOD323
+D 5.6V Zener diode
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal_20MHz_50ppm
+D Crystal, 20MHz, 50ppm, FA-238
+K quartz ceramic resonator oscillator
+F ${KIPRJMOD}/../lib/00_Crystals.pretty/FA-238_20MHz.pdf
+$ENDCMP
+#
+$CMP Crystal_32.768kHz_20ppm
+D Crystal, 32.768kHz, 20ppm, MC-306
+K quartz ceramic resonator oscillator
+F ${KIPRJMOD}/../lib/00_Crystals.pretty/MC-306_32768KHz.pdf
+$ENDCMP
+#
+#End Doc Library

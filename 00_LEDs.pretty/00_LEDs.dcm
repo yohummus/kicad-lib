@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_B_145MCD_0603
+D LED, blue, 3.2V fw., 145mcd, 0603
+K LED diode
+F ${KIPRJMOD}/../lib/00_LEDs.pretty/150060BS75000.pdf
+$ENDCMP
+#
+$CMP LED_G_40MCD_0603
+D LED, green, 2.0V fw., 40mcd, 0603
+K LED diode
+F ${KIPRJMOD}/../lib/00_LEDs.pretty/150060VS75000.pdf
+$ENDCMP
+#
+$CMP LED_G_430MCD_0603
+D LED, green, 3.2V fw., 430mcd, 0603
+K LED diode
+F ${KIPRJMOD}/../lib/00_LEDs.pretty/150060GS75000.pdf
+$ENDCMP
+#
+$CMP LED_R_250MCD_0603
+D LED, red, 2V fw., 250mcd, 0603
+K LED diode
+F ${KIPRJMOD}/../lib/00_LEDs.pretty/150060RS75000.pdf
+$ENDCMP
+#
+$CMP LED_R_60MCD_0603
+D LED, red, 1.9V fw., 60mcd, 0603
+K LED diode
+F ${KIPRJMOD}/../lib/00_LEDs.pretty/150060SS75000.pdf
+$ENDCMP
+#
+$CMP LED_Y_120MCD_0603
+D LED, yellow, 2V fw., 120mcd, 0603
+K LED diode
+F ${KIPRJMOD}/../lib/00_LEDs.pretty/150060YS75000.pdf
+$ENDCMP
+#
+#End Doc Library

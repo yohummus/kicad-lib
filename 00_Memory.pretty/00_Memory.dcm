@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24C01
+D I2C Serial EEPROM, 1Kb (128x8) with Unique Serial Number, SOT-23-5
+K I2C Serial EEPROM Nonvolatile Memory
+F ${KIPRJMOD}/../lib/00_Memory.pretty/AT24C0x.pdf
+$ENDCMP
+#
+$CMP W25Q32JV
+D 32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8
+K flash memory SPI
+F ${KIPRJMOD}/../lib/00_Memory.pretty/W25Q32JVSSIM.pdf
+$ENDCMP
+#
+#End Doc Library

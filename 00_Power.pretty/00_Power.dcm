@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AUX_3V3
+D Power symbol creates a global label with name "AUX_3V3"
+K power-flag battery
+$ENDCMP
+#
+$CMP AUX_5V
+D Power symbol creates a global label with name "AUX_5V"
+K power-flag battery
+$ENDCMP
+#
+$CMP BAT+
+D Power symbol creates a global label with name "BAT+"
+K power-flag battery
+$ENDCMP
+#
+$CMP BAT-
+D Power symbol creates a global label with name "BAT-"
+K power-flag battery
+$ENDCMP
+#
+$CMP PACK+
+D Power symbol creates a global label with name "PACK+"
+K power-flag load
+$ENDCMP
+#
+$CMP PACK-
+D Power symbol creates a global label with name "PACK-"
+K power-flag load
+$ENDCMP
+#
+#End Doc Library

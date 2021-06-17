@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC847BDW1
+D Dual NPN transistor, 6 pin package
+K transistor NPN
+F ${KIPRJMOD}/../lib/00_BJTs.pretty/BC847BDW1.pdf
+$ENDCMP
+#
+#End Doc Library

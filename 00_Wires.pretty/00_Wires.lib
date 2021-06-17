@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Wire_L
+#
+DEF Wire_L P 0 0 N N 1 F N
+F0 "P" 150 -150 50 H I C CNN
+F1 "Wire_L" 0 250 50 H I C CNN
+F2 "00_Wires:WIRE_L" 0 150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "L" 150 0 50 H I C CNN "Size"
+F5 "Label" 150 -200 50 H V C CNN "Label"
+F6 "1" 400 0 50 H I C CNN "DNP"
+DRAW
+A 50 0 0 0 0 0 1 0 N 50 0 50 0
+C 50 -50 50 0 1 4 F
+C 50 50 50 0 1 4 F
+C 250 -50 50 0 1 4 F
+C 250 50 50 0 1 4 F
+P 9 0 1 4 50 100 250 100 300 50 300 -50 250 -100 50 -100 0 -50 0 50 50 100 F
+X WIRE 1 -100 0 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
